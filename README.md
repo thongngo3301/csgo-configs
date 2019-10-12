@@ -1,5 +1,6 @@
 # csgo-configs
 <ul><li>copy file autoexec.cfg to</li></ul>
-D:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+&nbsp;&nbsp;&nbsp;&nbsp;D:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+<br/>
 <ul><li>add this line to the end of config.cfg</li></ul>
-exec autoexec
+&nbsp;&nbsp;&nbsp;&nbsp;exec autoexec
