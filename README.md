@@ -1,6 +1,3 @@
-# csgo-configs
-<ul><li>copy file <b>autoexec.cfg</b> and <b>training.cfg</b> to</li></ul>
-&nbsp;&nbsp;&nbsp;&nbsp;D:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-<br/><br/>
-<ul><li>add this line to the end of file <b>config.cfg</b></li></ul>
-&nbsp;&nbsp;&nbsp;&nbsp;exec autoexec
++exec bind.cfg +fps_max 0 -nojoy -high -fullscreen +mat_disable_fancy_blending 1 +cl_forcepreload 1 -limitvsconst -forcenovsync +r_dynamic 0 -refresh 144 -tickrate 128 +rate 786432
+
+Copy to D:/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg
